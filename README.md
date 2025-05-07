@@ -29,12 +29,12 @@ Jupyter : https://github.dev/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
 # Coupon type
     * Most issued coupon is for Coffee House and least issued coupon is Highend Restaurants
     * Coupons issued for Coffee House and Cheap Restaurants has high acceptance, and they are
-![alt text](/images/Coupon Type Distribution.png?raw=true)
-![alt text](/images/Coupon Type vs Acceptance.png?raw=true)
+![alt text](/images/Coupon_Type_Distribution.png?raw=true)
+![alt text](/images/Coupon_Type_vs_Acceptance.png?raw=true)
 
 # temperature vs Coupon issued
     * Survey distributed more coupons during warmer temperature and less coupons on cold weather
-    ![alt text](/images/Issued Coupon vs temperature.png?raw=true)
+    ![alt text](/images/Issued_Coupon_vs_temperature.png?raw=true)
 
 # Bar Coupon Acceptance
     * Only 41% bar coupon has redeemed
@@ -44,10 +44,10 @@ Jupyter : https://github.dev/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
     * Drivers do not having kids show higher acceptance rates.
     * Bar coupons issued after noon has higher acceptance rate
     
-    ![alt text](/images/Bar coupons - Proportion.png?raw=true)
-    ![alt text](/images/No Kids vs Bar Coupon.png?raw=true)
-    ![alt text](/images/Young age vs Bar coupon.png?raw=true)
-    ![alt text](/images/time vs Bar coupon.png?raw=true)
+    ![alt text](/images/Bar_coupons_-_Proportion.png?raw=true)
+    ![alt text](/images/No_Kids_vs_Bar_Coupon.png?raw=true)
+    ![alt text](/images/Young_age_vs_Bar_coupon.png?raw=true)
+    ![alt text](/images/time_vs_Bar_coupon.png?raw=true)
 
      
 
