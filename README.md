@@ -5,7 +5,7 @@ Jupyter : https://github.com/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
 ## Explore the dataset
 # Investigate the dataset for missing or problematic data.
 
-<img src="/images/Missing_values.png" width="350" height="350">
+<img src="/images/Missing_values.png" width="550" height="450">
 
     * Car column has missing 99.15 % of data, and it has 5 different values about what kind of vehicle being used. This column is not very useful for the EDA analysis, could be ignored
 
@@ -15,7 +15,7 @@ Jupyter : https://github.com/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
      
 # Decide what to do about your missing data -- drop, replace, other...
   
-<img src="/images/Outliers.png" width="350" height="350">
+<img src="/images/Outliers.png" width="550" height="450">
 
     * There is no Outliers
     * There are 74 duplicated records found, and droped.
