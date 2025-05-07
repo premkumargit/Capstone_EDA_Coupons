@@ -53,8 +53,8 @@ Jupyter : https://github.com/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
     * Drivers do not having kids show higher acceptance rates.
     * Bar coupons issued after noon has higher acceptance rate
 
-<img src="/images/Bar_coupons_-_Proportion.png" width="100" height="100"> <img src="/images/time_vs_Bar_coupon.png" width="100" height="100">
-<img src="/images/No_Kids_vs_Bar_Coupon.png" width="100" height="100"> <img src="/images/Young_age_vs_Bar_coupon.png" width="100" height="100">    
+<img src="/images/Bar_coupons_Proportion.png" width="250" height="250"> <img src="/images/time_vs_Bar_coupon.png" width="250" height="250">
+<img src="/images/No_Kids_vs_Bar_Coupon.png" width="250" height="250"> <img src="/images/Young_age_vs_Bar_coupon.png" width="250" height="250">    
 
 
 
