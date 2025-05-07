@@ -52,9 +52,10 @@ Jupyter : https://github.com/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
     * Drivers having lower income(< 50k) and visits cheap restaurents show higher acceptance rates.
     * Drivers do not having kids show higher acceptance rates.
     * Bar coupons issued after noon has higher acceptance rate
-    
-![](/images/Bar_coupons_-_Proportion.png =250x250) ![](/images/time_vs_Bar_coupon.png =250x250)
-![](/images/No_Kids_vs_Bar_Coupon.png =250x250) ![](/images/Young_age_vs_Bar_coupon.png =250x250)
+
+<img src="/images/Bar_coupons_-_Proportion.png" width="100" height="100"> <img src="/images/time_vs_Bar_coupon.png" width="100" height="100">
+<img src="/images/No_Kids_vs_Bar_Coupon.png" width="100" height="100"> <img src="/images/Young_age_vs_Bar_coupon.png" width="100" height="100">    
+
 
 
      
