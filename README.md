@@ -5,7 +5,7 @@ Jupyter : https://github.com/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
 ## Explore the dataset
 # Investigate the dataset for missing or problematic data.
 
-![alt text](/images/Missing_values.png?raw=true)
+![](/images/Missing_values.png?raw=true)
 
     * Car column has missing 99.15 % of data, and it has 5 different values about what kind of vehicle being used. This column is not very useful for the EDA analysis, could be ignored
 
@@ -15,7 +15,7 @@ Jupyter : https://github.com/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
      
 # Decide what to do about your missing data -- drop, replace, other...
   
-![alt text](/images/Outliers.png?raw=true)
+![](/images/Outliers.png?raw=true)
 
     * There is no Outliers
     * There are 74 duplicated records found, and droped.
@@ -27,7 +27,7 @@ Jupyter : https://github.com/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
 # Coupon acceptance distributtion
 
     A little over 56% of customers accepted the coupon offer (specifically, 56.76%). This inference, with more users accepting coupons than rejecting them
-![alt text](/images/Coupon_acceptance_distribution.png?raw=true)
+![](/images/Coupon_acceptance_distribution.png?raw=true)
 
 
 # Coupon type
@@ -35,14 +35,14 @@ Jupyter : https://github.com/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
     * Most issued coupon is for Coffee House and least issued coupon is Highend Restaurants
     * Coupons issued for Coffee House and Cheap Restaurants has high acceptance, and they are
 
-![alt text](/images/Coupon_Type_Distribution.png?raw=true)
-![alt text](/images/Coupon_Type_vs_Acceptance.png?raw=true)
+![](/images/Coupon_Type_Distribution.png?raw=true)
+![](/images/Coupon_Type_vs_Acceptance.png?raw=true)
 
 # temperature vs Coupon issued
 
     * Survey distributed more coupons during warmer temperature and less coupons on cold weather
 
-![alt text](/images/Issued_Coupon_vs_temperature.png?raw=true)
+![](/images/Issued_Coupon_vs_temperature.png?raw=true)
 
 # Bar Coupon Acceptance
  
@@ -53,8 +53,8 @@ Jupyter : https://github.com/premkumargit/Capstone_EDA_Coupons/blob/main/prompt.
     * Drivers do not having kids show higher acceptance rates.
     * Bar coupons issued after noon has higher acceptance rate
     
-![alt text](/images/Bar_coupons_-_Proportion.png =100x100) ![alt text](/images/time_vs_Bar_coupon.png?raw=true)
-![alt text](/images/No_Kids_vs_Bar_Coupon.png?raw=true) ![alt text](/images/Young_age_vs_Bar_coupon.png?raw=true)
+![](/images/Bar_coupons_-_Proportion.png =250x250) ![](/images/time_vs_Bar_coupon.png =250x250)
+![](/images/No_Kids_vs_Bar_Coupon.png =250x250) ![](/images/Young_age_vs_Bar_coupon.png =250x250)
 
 
      
